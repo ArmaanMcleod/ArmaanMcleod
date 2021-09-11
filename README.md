@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi I'm Armaan 👋
 
-<!--
-**ArmaanMcleod/ArmaanMcleod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work for Microsoft and I'm passionate about open source, Azure, Infrastructure as Code and DevOps.
 
-Here are some ideas to get you started:
+I currently contribute to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [PSRule] - Validate infrastructure as code (IaC) and objects using PowerShell rules.
+- [PSRule.Rules.Azure] - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
+- [Pester] - Ubiquitous test and mock framework for PowerShell.
+- [azure-powershell] - Microsoft Azure PowerShell
+- [PowerShell] - PowerShell for every system!
+
+If you're looking to get in contact with me:
+- Find me on [Twitter]
+- Find me on [Linkedln]
+- Send an email to my GitHub email account (I don't check this quite as often)
+
+[PSRule]: https://github.com/microsoft/PSRule
+[PSRule.Rules.Azure]: https://github.com/Azure/PSRule.Rules.Azure
+[Pester]: https://github.com/pester/Pester
+[azure-powershell]: https://github.com/Azure/azure-powershell
+[PowerShell]: https://github.com/PowerShell/PowerShell
+[Twitter]: https://twitter.com/McleodArmaan
+[Linkedln]: https://www.linkedin.com/in/armaan-mcleod-533452137/
