@@ -4,11 +4,11 @@ I work for Microsoft and I'm passionate about open source, Azure, Infrastructure
 
 I am a maintainer of:
 
+- [PSRule] - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [PSRule.Rules.Azure] - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 
 I also contribute to:
 
-- [PSRule] - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [Pester] - Ubiquitous test and mock framework for PowerShell.
 - [azure-powershell] - Microsoft Azure PowerShell
 - [PowerShell] - PowerShell for every system!
