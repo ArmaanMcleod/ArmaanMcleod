@@ -12,6 +12,7 @@ I also contribute to the following projects:
 - [Pester] - Ubiquitous test and mock framework for PowerShell.
 - [azure-powershell] - Microsoft Azure PowerShell
 - [PowerShell] - PowerShell for every system!
+- [PSRule-vscode] - A Visual Studio Code extension for PSRule.
 
 If you're looking to get in contact with me:
 
@@ -21,6 +22,7 @@ If you're looking to get in contact with me:
 
 [PSRule]: https://github.com/microsoft/PSRule
 [PSRule.Rules.Azure]: https://github.com/Azure/PSRule.Rules.Azure
+[PSRule-vscode]: https://github.com/microsoft/PSRule-vscode
 [Pester]: https://github.com/pester/Pester
 [azure-powershell]: https://github.com/Azure/azure-powershell
 [PowerShell]: https://github.com/PowerShell/PowerShell
