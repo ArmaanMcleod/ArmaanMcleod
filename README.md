@@ -6,6 +6,7 @@ I am a maintainer of the following projects:
 
 - [PSRule] - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [PSRule.Rules.Azure] - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
+- [PSRule.Rules.Azure-quickstart] - Validate Azure resources and Infrastructure as Code (IaC) using PSRule.
 
 I also contribute to the following projects:
 
@@ -24,6 +25,7 @@ If you're looking to get in contact with me:
 
 [PSRule]: https://github.com/microsoft/PSRule
 [PSRule.Rules.Azure]: https://github.com/Azure/PSRule.Rules.Azure
+[PSRule.Rules.Azure-quickstart]: https://github.com/Azure/PSRule.Rules.Azure-quickstart
 [PSRule-vscode]: https://github.com/microsoft/PSRule-vscode
 [ps-rule]: https://github.com/microsoft/ps-rule
 [PSRule-pipelines]: https://github.com/microsoft/PSRule-pipelines
