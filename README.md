@@ -1,15 +1,12 @@
 ### Hi I'm Armaan 👋
 
-I work for Microsoft and I'm passionate about open source, Azure, Infrastructure as Code and DevOps.
+I'm passionate about open source, Azure, Infrastructure as Code and DevOps.
 
-I am a maintainer of the following projects:
+I contribute to the following projects:
 
 - [PSRule] - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [PSRule.Rules.Azure] - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [PSRule.Rules.Azure-quickstart] - Validate Azure resources and Infrastructure as Code (IaC) using PSRule.
-
-I also contribute to the following projects:
-
 - [Pester] - Ubiquitous test and mock framework for PowerShell.
 - [azure-powershell] - Microsoft Azure PowerShell
 - [PowerShell] - PowerShell for every system!
