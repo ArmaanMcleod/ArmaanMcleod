@@ -10,6 +10,7 @@ I contribute to the following projects:
 - [Pester] - Ubiquitous test and mock framework for PowerShell.
 - [azure-powershell] - Microsoft Azure PowerShell
 - [PowerShell] - PowerShell for every system!
+- [PowerShell-Docs] - The official PowerShell documentation sources
 - [PSRule-vscode] - A Visual Studio Code extension for PSRule.
 - [ps-rule] - Validate infrastructure as code (IaC) and DevOps repositories using GitHub Actions.
 - [PSRule-pipelines] - Validate infrastructure as code (IaC) and DevOps repositories using Azure Pipelines.
@@ -33,3 +34,4 @@ If you're looking to get in contact with me:
 [Twitter]: https://twitter.com/McleodArmaan
 [Linkedln]: https://www.linkedin.com/in/armaan-mcleod-533452137/
 [CosmosDB]: https://github.com/PlagueHO/CosmosDB
+[PowerShell-Docs]: https://github.com/MicrosoftDocs/PowerShell-Docs
