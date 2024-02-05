@@ -16,6 +16,10 @@ I contribute to the following projects:
 - [PSRule-pipelines] - Validate infrastructure as code (IaC) and DevOps repositories using Azure Pipelines.
 - [CosmosDB] - PowerShell Module for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
+Also maintain the following projects:
+
+- [PoshJsonWebToken] - Binary PowerShell module which contains cmdlets to help with generating and validating signed or encrypted JWT tokens.
+
 If you're looking to get in contact with me:
 
 - Find me on [Twitter]
@@ -35,3 +39,4 @@ If you're looking to get in contact with me:
 [Linkedln]: https://www.linkedin.com/in/armaan-mcleod-533452137/
 [CosmosDB]: https://github.com/PlagueHO/CosmosDB
 [PowerShell-Docs]: https://github.com/MicrosoftDocs/PowerShell-Docs
+[PoshJsonWebToken]: https://github.com/ArmaanMcleod/PoshJsonWebToken
