@@ -2,18 +2,18 @@
 
 I'm passionate about open source, Azure, Infrastructure as Code and DevOps.
 
-I contribute to the following projects:
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ArmaanMcleod&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanMcleod&theme=tokyonight&layout=compact)
+
+I currently contribute to the following projects:
 
 - [PSRule] - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [PSRule.Rules.Azure] - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
-- [PSRule.Rules.Azure-quickstart] - Validate Azure resources and Infrastructure as Code (IaC) using PSRule.
 - [Pester] - Ubiquitous test and mock framework for PowerShell.
 - [azure-powershell] - Microsoft Azure PowerShell
 - [PowerShell] - PowerShell for every system!
 - [PowerShell-Docs] - The official PowerShell documentation sources
-- [PSRule-vscode] - A Visual Studio Code extension for PSRule.
-- [ps-rule] - Validate infrastructure as code (IaC) and DevOps repositories using GitHub Actions.
-- [PSRule-pipelines] - Validate infrastructure as code (IaC) and DevOps repositories using Azure Pipelines.
 - [CosmosDB] - PowerShell Module for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
 Also maintain the following projects:
@@ -28,10 +28,6 @@ If you're looking to get in contact with me:
 
 [PSRule]: https://github.com/microsoft/PSRule
 [PSRule.Rules.Azure]: https://github.com/Azure/PSRule.Rules.Azure
-[PSRule.Rules.Azure-quickstart]: https://github.com/Azure/PSRule.Rules.Azure-quickstart
-[PSRule-vscode]: https://github.com/microsoft/PSRule-vscode
-[ps-rule]: https://github.com/microsoft/ps-rule
-[PSRule-pipelines]: https://github.com/microsoft/PSRule-pipelines
 [Pester]: https://github.com/pester/Pester
 [azure-powershell]: https://github.com/Azure/azure-powershell
 [PowerShell]: https://github.com/PowerShell/PowerShell
