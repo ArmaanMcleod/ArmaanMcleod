@@ -4,7 +4,7 @@ I'm passionate about open source, Azure, Infrastructure as Code and DevOps.
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ArmaanMcleod&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanMcleod&theme=tokyonight&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanMcleod&theme=tokyonight&layout=compact&hide=jupyter%20notebook,Prolog,Haskell,ShaderLab,Makefile,Shell,HTML,HCL,BatchFile,CSS)
 
 I currently contribute to the following projects:
 
