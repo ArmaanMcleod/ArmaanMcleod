@@ -15,6 +15,7 @@ I currently contribute to the following projects:
 - [PowerShell] - PowerShell for every system!
 - [PowerShell-Docs] - The official PowerShell documentation sources
 - [CosmosDB] - PowerShell Module for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
+- [azure-sdk-for-go] - This repository is for active development of the Azure SDK for Go.
 
 Also maintain the following projects:
 
@@ -36,3 +37,4 @@ If you're looking to get in contact with me:
 [CosmosDB]: https://github.com/PlagueHO/CosmosDB
 [PowerShell-Docs]: https://github.com/MicrosoftDocs/PowerShell-Docs
 [PoshJsonWebToken]: https://github.com/ArmaanMcleod/PoshJsonWebToken
+[azure-sdk-for-go]: https://github.com/Azure/azure-sdk-for-go
