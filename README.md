@@ -1,10 +1,6 @@
 ### Hi I'm Armaan 👋
 
-I'm passionate about open source, Azure, Infrastructure as Code and DevOps.
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ArmaanMcleod&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanMcleod&theme=tokyonight&layout=compact&hide=jupyter%20notebook,Prolog,Haskell,ShaderLab,Makefile,Shell,HTML,HCL,BatchFile,CSS)
+I'm a software engineer passionate about open source, Azure/AWS/GCP, Infrastructure as Code and DevOps.
 
 I currently contribute to the following projects:
 
@@ -20,6 +16,7 @@ I currently contribute to the following projects:
 Also maintain the following projects:
 
 - [PoshJsonWebToken] - Binary PowerShell module which contains cmdlets to help with generating and validating signed or encrypted JWT tokens.
+- [PowerShellBuildTools] - Build automation tools for PowerShell module development.
 
 If you're looking to get in contact with me:
 
@@ -38,3 +35,4 @@ If you're looking to get in contact with me:
 [PowerShell-Docs]: https://github.com/MicrosoftDocs/PowerShell-Docs
 [PoshJsonWebToken]: https://github.com/ArmaanMcleod/PoshJsonWebToken
 [azure-sdk-for-go]: https://github.com/Azure/azure-sdk-for-go
+[PowerShellBuildTools]: https://github.com/ArmaanMcleod/PowerShellBuildTools
