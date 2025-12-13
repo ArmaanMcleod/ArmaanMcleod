@@ -17,6 +17,7 @@ Also maintain the following projects:
 
 - [PoshJsonWebToken] - Binary PowerShell module which contains cmdlets to help with generating and validating signed or encrypted JWT tokens.
 - [PowerShellBuildTools] - Build automation tools for PowerShell module development.
+- [PoshJohn] - Binary PowerShell module which contains cmdlets to help with extracting and cracking password hashes from password-protected files using John the Ripper (https://www.openwall.com/john/).
 
 If you're looking to get in contact with me:
 
@@ -36,3 +37,4 @@ If you're looking to get in contact with me:
 [PoshJsonWebToken]: https://github.com/ArmaanMcleod/PoshJsonWebToken
 [azure-sdk-for-go]: https://github.com/Azure/azure-sdk-for-go
 [PowerShellBuildTools]: https://github.com/ArmaanMcleod/PowerShellBuildTools
+[PoshJohn]: https://github.com/ArmaanMcleod/PoshJohn
