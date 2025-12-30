@@ -3,15 +3,11 @@
 I'm a Systems Development Engineer passionate about **open source**, **cloud platforms (Azure/AWS/GCP)**, and **DevOps automation**.  
 I design resilient distributed systems, build Infrastructure as Code frameworks, and contribute to projects that empower teams.
 
-## 📈 GitHub Stats
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ArmaanMcleod&theme=tokyonight)
-
 ## 🔧 Tech Stack
 
-- Languages: C#, Golang, PowerShell, Python
+- Languages: C#,C,Java,Golang,PowerShell,Bash,Python,TypeScript
 - Cloud: Azure, AWS, GCP
-- DevOps: Terraform, Kubernetes, Docker, GitHub Actions, CI/CD
+- DevOps: Terraform, Kubernetes, Docker, GitHub Actions, Azure Pipelines, Bicep/ARM
 - OS: Linux, Windows, MacOS
 
 ## 🌟 Projects I contribute to
