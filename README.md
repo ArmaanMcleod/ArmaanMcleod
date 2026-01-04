@@ -5,10 +5,20 @@ I design resilient distributed systems, build Infrastructure as Code frameworks,
 
 ## 🔧 Tech Stack
 
-- Languages: C#,C,Java,Golang,PowerShell,Bash,Python,TypeScript
-- Cloud: Azure, AWS, GCP
-- DevOps: Terraform, Kubernetes, Docker, GitHub Actions, Azure Pipelines, Bicep/ARM
-- OS: Linux, Windows, MacOS
+<div id="logos">
+  <img alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" style="margin:5px" />
+  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="margin:5px" />
+  <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin:5px" />
+  <img alt="PowerShell" width="30px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/6ceaf92bf941f8c08367016c8cfe1dcc9aafbce1/assets/ps_black_128.svg" style="margin:5px" />
+  <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="margin:5px" />
+  <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin:5px" />
+  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin:5px" />
+  <img alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin:5px" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin:5px" />
+  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin:5px" />
+  <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//docker/docker-original.svg" style="margin:5px" />
+  <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin:5px" />
+</div> 
 
 ## 🌟 Projects I contribute to
 
