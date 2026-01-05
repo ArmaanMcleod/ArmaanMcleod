@@ -21,6 +21,7 @@ I design resilient distributed systems, build Infrastructure as Code frameworks,
   <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//docker/docker-original.svg" style="margin:5px" />
   <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin:5px" />
   <img alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="margin:5px" />
+  <img alt="GCP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="margin:5px" />
 </div> 
 
 ## 🌟 Projects I contribute to
