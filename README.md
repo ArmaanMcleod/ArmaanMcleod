@@ -27,20 +27,20 @@ I design resilient distributed systems, build Infrastructure as Code frameworks,
 
 ## 🌟 Projects I contribute to
 
-- **[PSRule](https://github.com/microsoft/PSRule)** – Validate infrastructure as code (IaC) and objects using PowerShell rules.  
-- **[PSRule.Rules.Azure](https://github.com/microsoft/PSRule.Rules.Azure)** – Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.  
-- **[Pester](https://github.com/pester/Pester)** – Ubiquitous test and mock framework for PowerShell.  
-- **[azure-powershell](https://github.com/Azure/azure-powershell)** – Microsoft Azure PowerShell.  
-- **[PowerShell](https://github.com/PowerShell/PowerShell)** – PowerShell for every system!  
-- **[PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs)** – The official PowerShell documentation sources.  
-- **[CosmosDB](https://github.com/PlagueHO/CosmosDB)** – PowerShell Module for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.  
-- **[azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go)** – Active development of the Azure SDK for Go.  
+- **[PSRule]** – Validate infrastructure as code (IaC) and objects using PowerShell rules.  
+- **[PSRule.Rules.Azure]** – Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.  
+- **[Pester]** – Ubiquitous test and mock framework for PowerShell.  
+- **[azure-powershell]** – Microsoft Azure PowerShell.  
+- **[PowerShell]** – PowerShell for every system!  
+- **[PowerShell-Docs]** – The official PowerShell documentation sources.  
+- **[CosmosDB]** – PowerShell Module for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.  
+- **[azure-sdk-for-go]** – Active development of the Azure SDK for Go.  
 
 ## 🛠️ Projects I Maintain
 
-- [PoshJsonWebToken] - Binary PowerShell module which contains cmdlets to help with generating and validating signed or encrypted JWT tokens.
-- [PowerShellBuildTools] - Build automation tools for PowerShell module development.
-- [PoshJohn] - Binary PowerShell module which contains cmdlets to help with extracting and cracking password hashes from password-protected files using John the Ripper (https://www.openwall.com/john/).
+- **[PoshJsonWebToken]** - Binary PowerShell module which contains cmdlets to help with generating and validating signed or encrypted JWT tokens.
+- **[PowerShellBuildTools]** - Build automation tools for PowerShell module development.
+- **[PoshJohn]** - Binary PowerShell module which contains cmdlets to help with extracting and cracking password hashes from password-protected files using John the Ripper (https://www.openwall.com/john/).
 
 ## 📫 Connect
 
